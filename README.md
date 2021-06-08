@@ -1,2 +1,2 @@
 # vanrichardngo-portfolio
-Design Portfolio
+Van's UX Design Portfolio
